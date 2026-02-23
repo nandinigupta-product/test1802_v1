@@ -493,7 +493,7 @@
     const rateText = $('#rate-text', root);
     const totalText = $('#total-text', root);
 
-    const brgPanel = \$('#brg-panel', root);
+    const brgPanel = $('#brg-panel', root);
 
     const savingsBanner = $('#savings-banner', root);
     const savingsText = $('#savings-text', root);
